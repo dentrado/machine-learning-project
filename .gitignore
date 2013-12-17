@@ -1,3 +1,7 @@
+# PyCharm
+.idea/misc.xml
+.idea/workspace.xml
+
 *.py[cod]
 
 # C extensions
